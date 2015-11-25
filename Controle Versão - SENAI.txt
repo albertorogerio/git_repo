@@ -1,2 +1,3 @@
 Teste de arquivo 2.
 Exemplificando o uso do git.
+Editando o arquivo remotamente.
